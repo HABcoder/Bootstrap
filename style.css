@@ -53,3 +53,18 @@
   .follow .pint:hover{
     color: red;
   }
+
+  .add {
+     transition: 0.2s ease;
+  }
+  .add:hover {
+    background-color: #f84c4c;
+    color: white;
+    border-color: #f84c4c;
+    outline: #f84c4c;
+  }
+
+  .read:hover {
+    background-color: darkgreen;
+    color: white;
+  }
